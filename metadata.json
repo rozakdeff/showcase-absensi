@@ -1,0 +1,9 @@
+{
+  "name": "AbsensiApp Showcase",
+  "description": "Dokumen Wireframe & Product Showcase untuk Client - Sistem Absensi & Monitoring Karyawan",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
