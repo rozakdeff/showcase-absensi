@@ -989,7 +989,6 @@ export default function App() {
           <p className="font-headline font-bold text-xl md:text-2xl mb-2 text-primary">AbsensiApp Project Discovery</p>
           <p className="text-on-surface-variant text-sm md:text-base italic mb-8">Business Flow & Specs Documentation · April 2026</p>
           <div className="flex flex-col md:flex-row justify-center gap-3 md:gap-4 max-w-xs md:max-w-none mx-auto">
-            <button className="bg-primary text-white px-8 py-3 rounded-full font-bold text-sm md:text-base">Download Alur Bisnis (PDF)</button>
             <button className="border border-primary text-primary px-8 py-3 rounded-full font-bold hover:bg-primary/5 text-sm md:text-base">Back to Top</button>
           </div>
         </div>
